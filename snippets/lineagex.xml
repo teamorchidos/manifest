@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    
-     <remote name="lineagex"
-            fetch="https://github.com//Lineage-X" />
-
     <project path="android" name="android" remote="lineagex" />
     <project path="vendor/lineage" name="android_vendor_lineage" remote="lineagex" />
     <project path="frameworks/base" name="android_frameworks_base" remote="lineagex" />
