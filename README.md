@@ -9,7 +9,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/OrchidOS-Team/manifest.git -b ten
+repo init -u https://github.com/teamorchidos/manifest.git -b ten
 ```
 ## Sync
 ```## Sync
