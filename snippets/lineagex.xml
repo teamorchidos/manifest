@@ -2,7 +2,8 @@
 <manifest>
     
     <remote name="lineagex"
-            fetch="https://github.com//Lineage-X" />
+            fetch="https://github.com//Lineage-X" 
+            revision="ten" />
     
     <remote name="teamorchidos"
             fetch="https://github.com/teamorchidos" />
